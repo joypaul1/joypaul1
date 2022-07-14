@@ -4,8 +4,8 @@ Hi 👋 My name is Digamber Rawat
 Full-Stack Engineer | Technical Author @positronx.io
 ---------------
 
-* 🌍  I'm based in Delhi
-* ✉️  You can contact me at [digamber@positronx.io](mailto:digamber@positronx.io)
+* 🌍  I'm based in Dhaka
+* ✉️  You can contact me at [joypaul.bd1997@gmail.com](mailto:joypaul.bd1997@gmail.com)
 
 <a href="https://www.twitter.com/ImDigamberSingh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ImDigamberSingh?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
