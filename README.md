@@ -1,7 +1,7 @@
 Hi 👋 My name is Joy Paul
 ===============================
 
-Full-Stack Engineer | Technical Author @positronx.io
+Full-Stack Engineer |PHP, Laravel, Javascript, Reactjx,Jquery,Ajax|
 ---------------
 
 * 🌍  I'm based in Dhaka
