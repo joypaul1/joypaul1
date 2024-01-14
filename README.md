@@ -1,7 +1,7 @@
 Hi 👋 My name is Joy Paul
 ===============================
 
-Full-Stack Engineer |PHP, Laravel, Javascript, Reactjx,Jquery,Ajax|
+Full-Stack Engineer |PHP, Laravel, Javascript, Reactjs, Jquery, Ajax|
 ---------------
 
 * 🌍  I'm based in Dhaka
