@@ -1,8 +1,10 @@
 Hi 👋 My name is Joy Paul
 ===============================
-
-Full-Stack Engineer |PHP, Laravel, Javascript, Reactjs, Jquery, Ajax|
-Database Administrator  |ORACLE 12C,SQL,MYSQL|
+### CODING SKILL ON
+Full-Stack Engineer | PHP, LARAVEL, JAVASCRIPT, REACT-JS, JQUERY, AJAX, AXIOS|
+---------------
+### DATABASE SKILL ON
+Database Administrator  |ORACLE 12C, SQL, MYSQL|
 ---------------
 
 * 🌍  I'm based in Dhaka
